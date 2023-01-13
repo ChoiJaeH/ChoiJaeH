@@ -1,15 +1,9 @@
 ### Hi there 👋
 
-<!--
-**ChoiJaeH/ChoiJaeH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 -  Interested ML/Math
 -  Want to va 
 -  Currently learning computer science in Sogang Univ
 -  How to reach me: tistory / instagram / email
--->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChoiJaeH)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiJaeH&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
