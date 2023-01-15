@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--  Interested in ML/Math
+-  Interested in AI / Math
 -  Want to learn various fields
 -  Currently learning computer science in Sogang Univ
 -  How to reach me: [tistory](https://hellojaehoon.tistory.com/) / [instagram](https://www.instagram.com/choi_jae_hh) 
